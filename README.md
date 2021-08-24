@@ -1,8 +1,7 @@
-<h2>"Shyweirdo Welcomes You"</h2>
+Hey there, welcome!
+My name is Abba a software developer who loves to learn 
 
-<br/>
-
-<img align="center" height="300" alt="GIF" src="https://cdn.dribbble.com/users/730703/screenshots/3653295/sludinajums.gif" />
+<img align="center" height="250" width="600" alt="GIF" src="https://cdn.dribbble.com/users/730703/screenshots/3653295/sludinajums.gif" />
 
 
 - 🌱 Shyweirdo loves React
