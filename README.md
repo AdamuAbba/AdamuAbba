@@ -1,6 +1,7 @@
 <h2> Hey there, welcome!</h2> 
 <hr/>
-My name is Abba a software developer who loves to learn while writing code and writing code while learning
+
+<img align="left" height="100" width="100" alt="GIF" src="https://cliply.co/wp-content/uploads/2020/08/442008110_GLANCING_AVATAR_3D_400px.gif"/> My name is Abba a software developer who loves to learn while writing code and writing code while learning
 
 <img align="center" height="250" width="600" alt="GIF" src="https://cdn.dribbble.com/users/730703/screenshots/3653295/sludinajums.gif" />
 <br/>
