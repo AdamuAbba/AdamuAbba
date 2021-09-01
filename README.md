@@ -1,4 +1,4 @@
-## Hey there, welcome! <img height="28" width="28" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/raising-hands_1f64c.png"/>
+## Hey there, welcome! <img height="50" width="50" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-dancing_1f57a.png"/>
 
  _Every man is a fool for at least five minutes every day; wisdom consists in not exceeding the limit._
 
