@@ -2,7 +2,8 @@
 
  _Every man is a fool for at least five minutes every day; wisdom consists in not exceeding the limit._
 
-<img align="center" alt="PNG" src="https://user-images.githubusercontent.com/48435816/131690872-f952b8a5-4db4-4727-81df-f036aaad273e.png" />
+<img align="center" alt="PNG" src="https://user-images.githubusercontent.com/48435816/132374792-18fb729e-c13f-4919-82b7-3489633e72f4.png" />
+
 
 <hr/>
 <p align="center">I'm a software Developer, a lover of Tech and a hungry man when it comes to learning new things. when i'm not coding i'm most times on YouTube feeding my mind and curiousity, watching some anime or gaming on my laptop. But a bulk of my time goes to learning and building projects</p>
