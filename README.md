@@ -1,4 +1,4 @@
-## Hey there, welcome! <img height="50" width="50" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-dancing_1f57a.png"/>
+## Hey there, welcome! <img height="50" width="50" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-dancing_1f57a.png"/> whatever you, please ignore the dancing man
 
  _Every man is a fool for at least five minutes every day; wisdom consists in not exceeding the limit._
 
@@ -19,7 +19,6 @@
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Styled%20Components-d06ebe?style=for-the-badge&logo=styled-components&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/Typescript-2f74c0?style=for-the-badge&logo=typescript&logoColor=white)
 
