@@ -1,4 +1,4 @@
-## Hey there, welcome! <img height="50" width="50" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-dancing_1f57a.png"/> whatever you, please ignore the dancing man
+## Hey there, welcome! <img height="50" width="50" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-dancing_1f57a.png"/> whatever you do, please ignore the dancing man he's weird
 
  _Every man is a fool for at least five minutes every day; wisdom consists in not exceeding the limit._
 
