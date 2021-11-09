@@ -31,6 +31,12 @@
 <a href="https://twitter.com/shytypes1028" target="_blank">
 <img alt="twitter" src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
+<a href="https://www.instagram.com/shytypes1028/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+</a>
+ <a href="https://www.facebook.com/izshytypes" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
+</a>
 </div>
 
 
