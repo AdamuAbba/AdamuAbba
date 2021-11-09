@@ -10,8 +10,9 @@
 <p align="center">I'm a software Developer, a lover of Tech and a hungry man when it comes to learning new things. when i'm not coding i'm most times on YouTube feeding my mind and curiousity, watching some anime or gaming on my laptop. But a bulk of my time goes to learning and building projects</p>
 <hr/>
 
-## Lets get connected
+
 <div align="center">
+ <h1>Lets link up <img alt="fire emoji" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/fire_1f525.png" hight="49" width="49"/></h1>
 <a href="https://wa.me/2347049560475">
 <img alt="whatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
@@ -29,8 +30,10 @@
 </a>
 </div>
 
-## <img height="25" width="25" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/hammer-and-wrench_1f6e0-fe0f.png"/> Technologies/skills
+
+
 <div align="center">
+ <h1>Tech & skills <img height="25" width="25" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/hammer-and-wrench_1f6e0-fe0f.png"/> </h1>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
 <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </a>
@@ -52,10 +55,18 @@
  <a href="https://redux-toolkit.js.org/">
 <img alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
 </a>
+ <a href="https://firebase.google.com/" >
+<img alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+</a>
+ <a href="https://github.com/">
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</a>
  <a href="https://www.netlify.com/">
 <img alt="netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </a>
+ 
 </div>
+
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=AdamuAbba&count_private=true&show_icons=true&theme=outrun"/> 
