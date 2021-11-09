@@ -12,20 +12,23 @@
 
 
 <div align="center">
- <h1>Lets link up <img alt="fire emoji" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/fire_1f525.png" hight="49" width="49"/></h1>
-<a href="https://wa.me/2347049560475">
+<h1>Lets link up <img alt="fire emoji" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/fire_1f525.png" hight="49" width="49"/></h1>
+<a href="https://wa.me/2347049560475" target="_blank">
 <img alt="whatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 <a href="abbaabamu302@gmail.com">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://abbaportfolio.netlify.app/">
+<a href="https://abbaportfolio.netlify.app/" target="_blank">
 <img alt="portfolio" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/abba-adamu-365a9b17a/">
+<a href="https://github.com/AdamuAbba/AdamuAbba" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt="github"/>
+</a>
+<a href="https://www.linkedin.com/in/abba-adamu-365a9b17a/" target="_blank">
 <img alt="linkedIn" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://twitter.com/shytypes1028">
+<a href="https://twitter.com/shytypes1028" target="_blank">
 <img alt="twitter" src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 </div>
@@ -34,34 +37,34 @@
 
 <div align="center">
  <h1>Tech & skills <img height="25" width="25" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/hammer-and-wrench_1f6e0-fe0f.png"/> </h1>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
 <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </a>
- <a href="https://www.w3schools.com/css/">
+ <a href="https://www.w3schools.com/css/" target="_blank">
 <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </a>
- <a href="https://www.javascript.com/" >
+ <a href="https://www.javascript.com/" target="_blank" >
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1" />
 </a>
-<a href="https://react-bootstrap.github.io/">
+<a href="https://react-bootstrap.github.io/" target="_blank">
 <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </a>
-<a href="https://reactjs.org/">
+<a href="https://reactjs.org/" target="_blank">
 <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </a>
- <a href="https://reactnative.dev/">
+ <a href="https://reactnative.dev/" target="_blank">
 <img alt="react native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </a>
- <a href="https://redux-toolkit.js.org/">
+ <a href="https://redux-toolkit.js.org/" target="_blank">
 <img alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
 </a>
- <a href="https://firebase.google.com/" >
+ <a href="https://firebase.google.com/" target="_blank" >
 <img alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
 </a>
- <a href="https://github.com/">
+ <a href="https://github.com/" target="_blank">
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </a>
- <a href="https://www.netlify.com/">
+ <a href="https://www.netlify.com/" target="_blank">
 <img alt="netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </a>
  
