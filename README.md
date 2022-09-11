@@ -3,7 +3,7 @@
 
 ## <p align="center"> **"𝕰𝖛𝖊𝖗𝖞 𝖒𝖆𝖓 𝖎𝖘 𝖆 𝖋𝖔𝖔𝖑 𝖋𝖔𝖗 𝖆𝖙 𝖑𝖊𝖆𝖘𝖙 𝖋𝖎𝖛𝖊 𝖒𝖎𝖓𝖚𝖙𝖊𝖘 𝖊𝖛𝖊𝖗𝖞 𝖉𝖆𝖞; 𝖜𝖎𝖘𝖉𝖔𝖒 𝖈𝖔𝖓𝖘𝖎𝖘𝖙𝖘 𝖎𝖓 𝖓𝖔𝖙 𝖊𝖝𝖈𝖊𝖊𝖉𝖎𝖓𝖌 𝖙𝖍𝖊 𝖑𝖎𝖒𝖎𝖙."**</p>
 <div align="center">
-<img align="center" alt="PNG" src="https://user-images.githubusercontent.com/48435816/132374792-18fb729e-c13f-4919-82b7-3489633e72f4.png"/>
+<img align="center" alt="PNG" src="https://user-images.githubusercontent.com/48435816/189533049-813191ca-a74c-4bd1-94ea-f10c0ffc82a1.png"/>
 </div>
 
 <hr/>
