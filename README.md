@@ -1,95 +1,95 @@
-## 𝐇𝐞𝐲 𝐭𝐡𝐞𝐫𝐞, 𝐰𝐞𝐥𝐜𝐨𝐦𝐞! <img height="50" width="50" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-dancing_1f57a.png"/> wₕₐₜₑᵥₑᵣ yₒᵤ dₒ, ₚₗₑₐₛₑ ᵢgₙₒᵣₑ ₜₕₑ dₐₙcᵢₙg ₘₐₙ ₕₑ'ₛ wₑᵢᵣd
+<h1 align="center">Hi 👋, I'm Abba</h1>
+<h3 align="center">A Nigeria based Software Engineer with over 3 years of professional software development experience both within the web and mobile ecosystems respectively</h3>
 
-
-## <p align="center"> **"𝕰𝖛𝖊𝖗𝖞 𝖒𝖆𝖓 𝖎𝖘 𝖆 𝖋𝖔𝖔𝖑 𝖋𝖔𝖗 𝖆𝖙 𝖑𝖊𝖆𝖘𝖙 𝖋𝖎𝖛𝖊 𝖒𝖎𝖓𝖚𝖙𝖊𝖘 𝖊𝖛𝖊𝖗𝖞 𝖉𝖆𝖞; 𝖜𝖎𝖘𝖉𝖔𝖒 𝖈𝖔𝖓𝖘𝖎𝖘𝖙𝖘 𝖎𝖓 𝖓𝖔𝖙 𝖊𝖝𝖈𝖊𝖊𝖉𝖎𝖓𝖌 𝖙𝖍𝖊 𝖑𝖎𝖒𝖎𝖙."**</p>
-<div align="center">
+<p>
 <img align="center" alt="PNG" src="https://user-images.githubusercontent.com/48435816/189533049-813191ca-a74c-4bd1-94ea-f10c0ffc82a1.png"/>
-</div>
+</p>
 
-<hr/>
-<p align="center">I'm a software Developer, a lover of Tech and a hungry man when it comes to learning new things. when i'm not coding i'm most times on YouTube feeding my mind and curiousity, watching some anime or gaming on my laptop. But a bulk of my time goes to learning and building projects</p>
-<hr/>
+- ⚡ Fun fact - **I have an overactive imagination, People with an overactive imagination spend a large portion of their time in a self-created world. These individuals have rich and vivid imaginations, intense sensory experiences, and a strong ability to give meaning to these images and feelings.**
 
+- 📄 Know about my experiences - [View CV](https://docs.google.com/document/d/e/2PACX-1vSTdEKt7h3DofwJYMvtcqNIvRSJJEuguoCqrQD0JAMlY9grwRYqaO9dAAJ4D5rl6y9unxgQTORRhStV/pub)
 
-<div align="center">
-<h1>Lets link up <img alt="fire emoji" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/fire_1f525.png" hight="49" width="49"/></h1>
-<a href="https://wa.me/2347049560475" target="_blank">
-<img alt="whatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-<a href="abbaabamu302@gmail.com">
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://abbaportfolio.netlify.app/" target="_blank">
-<img alt="portfolio" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" />
-</a>
-<a href="https://github.com/AdamuAbba/AdamuAbba" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt="github"/>
-</a>
-<a href="https://www.linkedin.com/in/abba-adamu-365a9b17a/" target="_blank">
+<p>
+<h3><img alt="fire emoji" src="https://em-content.zobj.net/thumbs/240/facebook/65/electric-plug_1f50c.png" hight="25" width="25"/> Connect with me :</h3>
+<a href="https://wa.me/+2347049560475" target="_blank"><img alt="whatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> <a href="abbaabamu302@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://abbaportfolio.netlify.app/" target="_blank"><img alt="portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
+</a> <a href="https://github.com/AdamuAbba" target="_blank">
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+</a> <a href="https://www.linkedin.com/in/abba-adamu/" target="_blank">
 <img alt="linkedIn" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://twitter.com/shytypes1028" target="_blank">
+</a> <a href="https://twitter.com/shytypes1028" target="_blank">
 <img alt="twitter" src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/shytypes1028/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
-</a>
- <a href="https://www.facebook.com/izshytypes" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
-</a>
-</div>
+</a> <a href="https://www.instagram.com/shytypes1028/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+</a> <a href="https://www.facebook.com/izshytypes" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" /></a> <a href="https://www.youtube.com/channel/UChCQ7ehNTlQsylk0BY2SfJg" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="youtube" /></a>
+</p>
 
+<p>
+ <h3><img height="25" width="25" src="https://cdn-icons-png.flaticon.com/128/534/534621.png"/> Languages:</h3>
 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-<div align="center">
- <h1>Tech & skills <img height="25" width="25" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/hammer-and-wrench_1f6e0-fe0f.png"/> </h1>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-<img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</a>
- <a href="https://www.w3schools.com/css/" target="_blank">
-<img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</a>
- <a href="https://www.javascript.com/" target="_blank" >
-<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1" />
-</a>
-<a href="https://react-bootstrap.github.io/" target="_blank">
-<img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</a>
-<a href="https://reactjs.org/" target="_blank">
-<img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</a>
- <a href="https://reactnative.dev/" target="_blank">
-<img alt="react native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</a>
- <a href="https://redux-toolkit.js.org/" target="_blank">
-<img alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-</a>
- <a href="https://firebase.google.com/" target="_blank" >
-<img alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
-</a>
- <a href="https://github.com/" target="_blank">
-<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</a>
- <a href="https://www.netlify.com/" target="_blank">
-<img alt="netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-</a>
- <a href="https://code.visualstudio.com/"  target="_blank">
-<img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-</a>
-</div>
+</p>
 
+<p>
+ <h3><img height="25" width="25" src="https://cdn-icons-png.flaticon.com/128/1006/1006363.png"/> Frontend:</h3>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AdamuAbba&count_private=true&show_icons=true&theme=outrun"/> 
-<a href="https://github.com/AdamuAbba/github-readme-stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamuAbba&layout=compact"/>
-</a>
-</div>
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
-<div align="center">
-<img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"/>
-</div>
+</p>
 
+<p>
+ <h3><img height="25" width="25" src="https://cdn-icons-png.flaticon.com/128/1383/1383395.png"/> Backend:</h3>
 
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
+</p>
 
+<p>
+ <h3><img height="25" width="25" src="https://cdn-icons-png.flaticon.com/128/868/868786.png"/> Tools:</h3>
+
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white) ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+</p>
+
+<p>
+<h3><img height="25" width="25" src="https://cdn-icons-png.flaticon.com/128/1584/1584506.png"/> OS :</h3>
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+</p>
+
+<p>
+ <h3><img height="25" width="25" src="https://cdn-icons-png.flaticon.com/128/3195/3195510.png"/> Miscellaneous:</h3>
+
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+</p>
+
+<p>
+<h3><img height="25" width="25" src="https://cdn-icons-png.flaticon.com/128/9637/9637987.png"/> Stats:</h3>
+
+![Profile views](https://komarev.com/ghpvc/?username=adamuabba&label=Profile%20views&color=blueviolet&style=for-the-badge)
+
+<p>
+
+![Profile trophy](https://github-profile-trophy.vercel.app/?username=adamuabba&theme=radical)
+
+</p>
+
+<p>
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=adamuabba&show_icons=true&locale=en&layout=compact&theme=cobalt)
+
+</p>
+<p>
+
+![](https://github-readme-stats.vercel.app/api?username=adamuabba&show_icons=true&locale=en&theme=cobalt)
+
+</p>
+<p>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=adamuabba&theme=cobalt)
+
+</p>
+</p>
