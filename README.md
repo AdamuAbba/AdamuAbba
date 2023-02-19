@@ -77,16 +77,8 @@
 
 </p>
 
-<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adamuabba&show_icons=true&locale=en&layout=compact&theme=cobalt" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=adamuabba&show_icons=true&locale=en&theme=cobalt" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=adamuabba&show_icons=true&locale=en&layout=compact&theme=cobalt)
-
-</p>
-<p>
-
-![](https://github-readme-stats.vercel.app/api?username=adamuabba&show_icons=true&locale=en&theme=cobalt)
-
-</p>
 <p>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adamuabba&theme=cobalt)
