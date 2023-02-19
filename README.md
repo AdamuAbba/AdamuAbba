@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abba</h1>
+<h1 align="center">Hi 👋🏿, I'm Abba</h1>
 <h3 align="center">A Nigeria based Software Engineer with over 3 years of professional software development experience both within the web and mobile ecosystems respectively</h3>
 
 <p>
@@ -10,7 +10,7 @@
 - 📄 Know about my experiences - [View CV](https://docs.google.com/document/d/e/2PACX-1vSTdEKt7h3DofwJYMvtcqNIvRSJJEuguoCqrQD0JAMlY9grwRYqaO9dAAJ4D5rl6y9unxgQTORRhStV/pub)
 
 <p>
-<h3><img alt="fire emoji" src="https://em-content.zobj.net/thumbs/240/facebook/65/electric-plug_1f50c.png" hight="25" width="25"/> Connect with me :</h3>
+<h3><img alt="fire emoji" src="https://cdn-icons-png.flaticon.com/128/868/868776.png" hight="25" width="25"/> Connect with me :</h3>
 <a href="https://wa.me/+2347049560475" target="_blank"><img alt="whatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> <a href="abbaabamu302@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://abbaportfolio.netlify.app/" target="_blank"><img alt="portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
 </a> <a href="https://github.com/AdamuAbba" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github"/>
@@ -80,8 +80,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adamuabba&show_icons=true&locale=en&layout=compact&theme=cobalt" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=adamuabba&show_icons=true&locale=en&theme=cobalt" />
 
 <p>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=adamuabba&theme=cobalt)
-
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adamuabba&theme=cobalt" /> <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=shyX&theme=cobalt&layout=compact" />
 </p>
 </p>
