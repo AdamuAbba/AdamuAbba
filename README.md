@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏿, I'm Abba</h1>
-<h3 align="center">A Nigeria based Software Engineer with 3 years of professional software development experience both within the web and mobile ecosystems respectively</h3>
+<h3 align="center">A Nigeria-based Software Engineer with 4 years of professional software development experience both within the web and mobile ecosystems respectively</h3>
 
 <p>
 <img align="center" alt="banner image" src="https://user-images.githubusercontent.com/48435816/219963787-89a529e0-4b73-4b2a-8b16-f401a9faa445.png"/>
