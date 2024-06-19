@@ -5,7 +5,7 @@
 <img align="center" alt="banner image" src="https://user-images.githubusercontent.com/48435816/219963787-89a529e0-4b73-4b2a-8b16-f401a9faa445.png"/>
 </p>
 
-- ⚡ Fun fact - **I have an overactive imagination, People with an overactive imagination spend a large portion of their time in a self-created world. These individuals have rich and vivid imaginations, intense sensory experiences, and a strong ability to give meaning to these images and feelings.**
+- ⚡ Fun fact - **I have an overactive imagination, People with an overactive imagination spend a large portion of their time in a self-created world. These individuals have rich and vivid imaginations, intense sensory experiences, and a strong ability to give meaning to these images and feelings. oh and i use Vim**
 
 - 📄 Know about my experiences - [View CV](https://docs.google.com/document/d/e/2PACX-1vSTdEKt7h3DofwJYMvtcqNIvRSJJEuguoCqrQD0JAMlY9grwRYqaO9dAAJ4D5rl6y9unxgQTORRhStV/pub)
 
