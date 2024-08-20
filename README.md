@@ -7,7 +7,7 @@ Hi 👋 I'm Abba. A Nigeria-based Software Engineer with 4 years of professional
 ## Quick stuff
 
 - I'm currently exploring the world of Bitcoin and open source software
-- I've got some cool articles on [dev.to](dev.to/shytypes1028)
+- I've got some cool articles on [dev.to](https://dev.to/shytypes1028)
 - I'm open to collaborations mostly around Bitcoin powered software
 - check out [My CV](https://docs.google.com/document/d/e/2PACX-1vSTdEKt7h3DofwJYMvtcqNIvRSJJEuguoCqrQD0JAMlY9grwRYqaO9dAAJ4D5rl6y9unxgQTORRhStV/pub)
 - I'm one of those weirdos who use [ Neovim ](neovim.io) as a daily driver
