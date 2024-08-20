@@ -1,14 +1,16 @@
-<h1 align="center">Hi 👋🏿, I'm Abba</h1>
-<h3 align="center">A Nigeria-based Software Engineer with 4 years of professional software development experience both within the web and mobile ecosystems respectively</h3>
+Hi 👋 I'm Abba. A Nigeria-based Software Engineer with 4 years of professional software development experience both within the web and mobile ecosystems respectively with a heavy passion for open source stuff.
 
 <p>
 <img align="center" alt="banner image" src="./images/GitHub banner.png"/>
 </p>
 
-- ⚡ Fun fact - **I have an overactive imagination, People with an overactive imagination spend a large portion of their time in a self-created world. These individuals have rich and vivid imaginations, intense sensory experiences, and a strong ability to give meaning to these images and feelings. oh and i use Vim**
+## Quick stuff
 
-- 📄 Know about my experiences - [View CV](https://docs.google.com/document/d/e/2PACX-1vSTdEKt7h3DofwJYMvtcqNIvRSJJEuguoCqrQD0JAMlY9grwRYqaO9dAAJ4D5rl6y9unxgQTORRhStV/pub)
-
+- I'm currently exploring the world of Bitcoin and open source software
+- I've got some cool articles on [dev.to](dev.to/shytypes1028)
+- I'm open to collaborations mostly around Bitcoin powered software
+- check out [My CV](https://docs.google.com/document/d/e/2PACX-1vSTdEKt7h3DofwJYMvtcqNIvRSJJEuguoCqrQD0JAMlY9grwRYqaO9dAAJ4D5rl6y9unxgQTORRhStV/pub)
+- I'm one of those weirdos who use [ Neovim ](neovim.io) as a daily driver
 <p>
 <h3><img alt="fire emoji" src="https://cdn-icons-png.flaticon.com/128/868/868776.png" hight="25" width="25"/> Connect with me :</h3>
 <a href="https://wa.me/+2347049560475" target="_blank"><img alt="whatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> <a href="abbaabamu302@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://abbaportfolio.netlify.app/" target="_blank"><img alt="portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
