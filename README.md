@@ -1,5 +1,5 @@
 - Bitcoin open source developer
-- 🔑 GPG: 8433 EA53 F186 3F4F CF9F 2DD8 B87C C68C F426 C819
+- 🔑 GPG: `8433 EA53 F186 3F4F CF9F 2DD8 B87C C68C F426 C819`
 - 📖 Articles <https://shytypes.gitbook.io/articles/>
 - ⚡ Paycode/LNURL: <shytypes1028@blink.sv>
 - 🌐 website: <https://adamuabba.github.io/shytypes/>
