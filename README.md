@@ -1,6 +1,4 @@
-- Bitcoin open source developer
-- 🔑 GPG: `8433 EA53 F186 3F4F CF9F 2DD8 B87C C68C F426 C819`
-- 📖 Articles <https://shytypes.gitbook.io/articles/>
-- ⚡ Paycode/LNURL: <shytypes1028@blink.sv>
-- 🌐 website: <https://adamuabba.github.io/shytypes/>
-- 💬 Nostr: npub143z86zyu9yq857trqpdjjv3xct79js4pz9fgvlg07ywpul942atqs2v78t
+- Rust developer focused on **Bitcoin protocol development**
+- GPG: `8433 EA53 F186 3F4F CF9F 2DD8 B87C C68C F426 C819`
+- open-source notes & articles: <https://github.com/AdamuAbba/open-source-notes>
+- Contributor @ [polar](https://github.com/jamaljsr/polar) and [rust-payjoin](https://github.com/payjoin/rust-payjoin)
